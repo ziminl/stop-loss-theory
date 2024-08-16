@@ -93,3 +93,6 @@ plt.xlabel('Date')
 plt.ylabel('Price')
 plt.legend()
 plt.show()
+
+
+#Final Balance: 11249.44 USDT
